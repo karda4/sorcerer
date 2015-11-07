@@ -1,0 +1,19 @@
+Back=OK
+Play=Help=Music=Sound=Restart=Exit=Arena=Achievements
+You win!=You lose!=points: =
+No moves
+Loading...
+Mission1=Mission2=Mission3=Mission4
+Level closed.=Collect=Fight!
+Help==Sorcerer HELP, Sorcerer HELP, Sorcerer HELP
+Pause=Continue=Restart=Menu
+Yes=No=Do you want reset the game?=Do you want exit the game?
+Personage=Shop=Skills=Bag=Body
+Text for confirm window
+power=tactic=brave=fire=water=air=earth=exp=level=health=money=cash
+Win!=Lose!=Increase!=Apply=Get an achievment!=OK=New level!=Extra stats: +=New achievment
+New level!
+Available points
+Your skills=empty=money=cash=activate=deactivate
+Repair=Sale=Put on=Take off
+Buy=Cancel
